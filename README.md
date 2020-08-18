@@ -1,4 +1,4 @@
-# Huxley
+# Huxley - NEA edit
 
 [Huxley 2](https://github.com/jpsingleton/Huxley2) is [out now](https://unop.uk/huxley-2-release/)!
 
